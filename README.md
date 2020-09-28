@@ -33,9 +33,9 @@ The refactored codes as shown below, in terms of timer is much more faster and b
    
    **Advantages**
 
-    - One of the advantage is that it runs faster when refactored. 
+    - One of the advantage is that it runs faster when refactored. I also understand as per the module and the exercise refactoring makes the code run more "efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read".
 
-    - Secondly, when you have mor eexperience in coding, it is a useful tool to use codes which are proven to be working and you only few lines to make it more efficient for your own use.
+    - Secondly, when you have more experience in coding, it is a useful tool to use codes which are proven to be working and you only add few lines to make it more and more efficient for your own use and the organization and colleagues/ teamamtes.
 
 
     **Disadvantages**
